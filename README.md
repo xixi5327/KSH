@@ -1,5 +1,8 @@
 # 基于知识图谱的新疆民族文化大数据平台
 
+#### 项目演示地址
+ http://falldeep.gitee.io/xinjiangknowledge
+
 #### 介绍
     基于知识图谱的新疆民族文化大数据平台是一个纯前端项目。
     利用的技术为html、css、js。
