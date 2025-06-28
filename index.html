@@ -108,19 +108,4 @@
 
 </body>
 
-<script type="text/javascript">
-    var data = {
-        nodes: [{ id: '1', label: '刘备', type: '男', properties: { age: 50 } },
-        { id: '2', label: '关羽', type: '男' },
-        { id: '3', label: '张飞', type: '男' }],
-        links: [{ source: '1', target: '2', label: '二弟', properties: { other: 'other prop' } },
-        { source: '1', target: '3', label: '三弟' }]
-    };
-
-    //  3、初始化关系图
-    let visGraph = new VisGraph(document.getElementById('graph-panel'));
-    visGraph.drawData(data);//绘制图完成
-    console.log(1);
-</script>
-
 </html>
